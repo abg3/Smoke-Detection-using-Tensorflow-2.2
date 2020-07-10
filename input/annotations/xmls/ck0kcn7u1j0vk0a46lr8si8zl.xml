@@ -1,0 +1,26 @@
+<annotation>
+    <folder>images</folder>
+    <filename>ck0kcn7u1j0vk0a46lr8si8zl.jpeg</filename>
+    <path>/output/images/ck0kcn7u1j0vk0a46lr8si8zl.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>smoke</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+                <xmin>96</xmin>
+                <ymin>227</ymin>
+                <xmax>251</xmax>
+                <ymax>290</ymax>
+            </bndbox>
+        </object>
+    </annotation>
