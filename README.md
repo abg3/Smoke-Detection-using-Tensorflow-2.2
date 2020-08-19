@@ -70,6 +70,14 @@ EfficientDet infers in 30ms in this distribution and is considered a realtime mo
 
 ![smokey6](https://user-images.githubusercontent.com/61203589/90666481-156de100-e213-11ea-98f1-de6949c99536.gif)
 
+# Acknowledgement
+
+We would like to thank HPWREN, AIForMankind, Google Tensorflow and Google Brain for the continuous support in this research project.
+
+# References
+
+1. https://github.com/google/automl/tree/master/efficientdet
+2. https://github.com/tensorflow/models/tree/master/research/object_detection
 
 # Next Steps
 1. Try out different model architectures and scale your model
