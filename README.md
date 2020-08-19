@@ -33,9 +33,9 @@ If you would like to head straight and make inference using our trained model, w
 Our model is trained EfficientDet-D0, which is a state of the art object detection model. You will find EfficientDet useful for real time object detection. EfficientDet has an EfficientNet backbone and a custom detection and classification network. EffcientDet is designed to efficiently scale from the smallest model size. The smallest EfficientDet, EfficientDet-D0 has 4 million weight parameters - which is truly tiny. EfficientDets are developed based on the advanced backbone, a new BiFPN, and a new scaling technique:
 
 Backbone: we employ EfficientNets as our backbone networks.
-BiFPN: we propose BiFPN, a bi-directional feature network enhanced with fast normalization, which enables easy and fast feature fusion.
-Scaling: we use a single compound scaling factor to govern the depth, width, and resolution for all backbone, feature & prediction networks.
-EfficientDet infers in 30ms in this distribution and is considered a realtime model. You can store EfficientDet with only 17 mb of storage.
+* BiFPN: we propose BiFPN, a bi-directional feature network enhanced with fast normalization, which enables easy and fast feature fusion.
+* Scaling: we use a single compound scaling factor to govern the depth, width, and resolution for all backbone, feature & prediction networks.
+* EfficientDet infers in 30ms in this distribution and is considered a realtime model. You can store EfficientDet with only 17 mb of storage.
 
 EfficientDet performed state of the art on COCO when it was released. We found that EfficientDet performs slightly better than YOLOv3. EfficientDet is an open source neural network model for the computer vision task of image detection.
 
