@@ -48,3 +48,8 @@ If you would like to head straight and make inference using our trained model, w
 
 ![smokey4](https://user-images.githubusercontent.com/61203589/90590551-7a3f2200-e1a6-11ea-8d5a-9d16297b0788.gif)
 
+# Next Steps
+1. Try out different model architectures and scale your model
+2. Try to reduce the loss further and improve upon accuracy
+3. Test your model on varying set of smoke images
+4. Build an app using TFLite and deploy the application
