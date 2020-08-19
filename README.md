@@ -5,8 +5,10 @@
 
 # Smoke Detector
 
-![smokey](https://user-images.githubusercontent.com/61203589/90588540-79f05800-e1a1-11ea-8fd1-54dbe8170a68.gif)
+## Inferences
 
-![smokey2](https://user-images.githubusercontent.com/61203589/90589985-051f1d00-e1a5-11ea-9f94-a06bb98ad19e.gif)
+1. ![smokey](https://user-images.githubusercontent.com/61203589/90588540-79f05800-e1a1-11ea-8fd1-54dbe8170a68.gif)
 
-![smokey3](https://user-images.githubusercontent.com/61203589/90589995-081a0d80-e1a5-11ea-8699-6cfa9a3a65fe.gif)
+2. ![smokey2](https://user-images.githubusercontent.com/61203589/90589985-051f1d00-e1a5-11ea-9f94-a06bb98ad19e.gif)
+
+3. ![smokey3](https://user-images.githubusercontent.com/61203589/90589995-081a0d80-e1a5-11ea-8699-6cfa9a3a65fe.gif)
