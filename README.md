@@ -8,9 +8,13 @@ In this repostiory, we implement The TensorFlow 2 Object Detection Library for t
 
 Our goal is to develop a wildfire smoke detector which will help California respond to wildfire concerns as quickly as possible.
 
+# Dataset
+
 We will use 733 annotated smoke images. The training, validation and testing dataset is divided in the ratio 7:2:1 i.e. 513 images for training, 147 for validation and 73 images for testing. We would like to acknowledge HPWREN and AIforMankind for providing this dataset.
 
 We have used Roboflow AI which is used to label the data, apply image preprocessing, data augmentation, generate TF Records and many other useful techniques in machine learning. We would also like to thank RoboFlow AI for the excellent tutorials.
+
+# Implementation
 
 We will take the following steps to implement Tensorflow 2 object detection model on our smoke dataset-
 
@@ -23,6 +27,11 @@ We will take the following steps to implement Tensorflow 2 object detection mode
 7. Save your model for future applications
 
 For best understanding and convenience, we recommend starting with the notebook in this repository using Google Colab. You will find step by step execution. Please follow along and avoid skipping any step. 
+
+# Files
+
+[Training Notebook]()
+[Inference Notebook](https://colab.research.google.com/drive/1OVuBK3JoOKsf74MJOUSUZLFXMGeHQJ-5?usp=sharing)
 
 # End Product
 
