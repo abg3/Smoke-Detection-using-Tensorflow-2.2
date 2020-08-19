@@ -26,7 +26,7 @@ For best understanding and convenience, we recommend starting with the notebook 
 
 # End Product
 
-If you would like to head straight and make inference using our trained model, we have the saved_model.pb file under fine_tuned_model for quick access.
+If you would like to head straight and make inference using our trained model, we have the saved_model.pb file under fine_tuned_model for quick access. We also have the  pipeline config file under this folder which was used to train our model. We have used cyclical learning rate optimization to yield better results. 
 
 ## Inferences and Results
 
