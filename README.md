@@ -30,8 +30,8 @@ For best understanding and convenience, we recommend starting with the notebook 
 
 # Files
 
-[Training Notebook]()
-[Inference Notebook](https://colab.research.google.com/drive/1OVuBK3JoOKsf74MJOUSUZLFXMGeHQJ-5?usp=sharing)
+1. [Training Notebook](https://colab.research.google.com/drive/1KWNgx33jwsWssn6oxunm1EUoOx64KrL6?usp=sharing)
+2. [Inference Notebook](https://colab.research.google.com/drive/1OVuBK3JoOKsf74MJOUSUZLFXMGeHQJ-5?usp=sharing)
 
 # End Product
 
