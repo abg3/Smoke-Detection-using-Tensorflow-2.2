@@ -48,6 +48,15 @@ If you would like to head straight and make inference using our trained model, w
 
 ![smokey4](https://user-images.githubusercontent.com/61203589/90590551-7a3f2200-e1a6-11ea-8d5a-9d16297b0788.gif)
 
+5. 
+
+![smokey5](https://user-images.githubusercontent.com/61203589/90666480-156de100-e213-11ea-856c-fcf7ee1fae4b.gif)
+
+6.
+
+![smokey6](https://user-images.githubusercontent.com/61203589/90666481-156de100-e213-11ea-98f1-de6949c99536.gif)
+
+
 # Next Steps
 1. Try out different model architectures and scale your model
 2. Try to reduce the loss further and improve upon accuracy
