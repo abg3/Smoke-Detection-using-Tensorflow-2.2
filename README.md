@@ -12,7 +12,7 @@ We will use 733 annotated smoke images. The training, validation and testing dat
 
 We have used Roboflow AI which is used to label the data, apply image preprocessing, data augmentation, generate TF Records and many other useful techniques in machine learning. We would also like to thank RoboFlow AI for the excellent tutorials.
 
-We will take the following steps to a implement Tensorflow 2 object detection model on our smoke dataset-
+We will take the following steps to implement Tensorflow 2 object detection model on our smoke dataset-
 
 1. Install TensorFlow2 Object Detection Dependencies
 2. Download Smoke Images Dataset and necessary files
