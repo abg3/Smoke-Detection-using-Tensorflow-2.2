@@ -5,7 +5,7 @@
 
 # Smoke Detector
 
-## Inferences
+## Inferences and Results
 
 1. 
 
