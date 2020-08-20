@@ -10,7 +10,7 @@ Our goal is to develop a wildfire smoke detector which will help California resp
 
 # Dataset
 
-We will use 733 annotated smoke images. The training, validation and testing dataset is divided in the ratio 7:2:1 i.e. 513 images for training, 147 for validation and 73 images for testing. We would like to acknowledge HPWREN and AIforMankind for providing this dataset.
+We will use 733 annotated smoke images. The training, validation and testing dataset is divided in the ratio 7:2:1 i.e. 513 images for training, 147 for validation and 73 images for testing. We would like to acknowledge [AIforMankind](https://github.com/aiformankind/wildfire-smoke-detection-camera) for providing this dataset.
 
 We have used Roboflow AI which is used to label the data, apply image preprocessing, data augmentation, generate TF Records and many other useful techniques in machine learning. We would also like to thank RoboFlow AI for the excellent tutorials.
 
