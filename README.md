@@ -6,7 +6,7 @@
 
 In this repostiory, we implement The TensorFlow 2 Object Detection Library for training on our own dataset.
 
-Our goal is to develop a wildfire smoke detector which will help California respond to wildfire concerns as quickly as possible.
+Our goal is to develop a wildfire smoke detector which will help California respond to wildfire concerns as quickly as possible. This is the submission project for [Lets Stop Wildfires Hackathon 2.0](https://aiformankind.org/lets-stop-wildfires-hackathon-2.0)
 
 # Dataset
 
