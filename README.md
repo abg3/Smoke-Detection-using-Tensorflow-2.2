@@ -47,8 +47,6 @@ Our model is trained EfficientDet-D0, which is a state of the art object detecti
 
 ![image](https://github.com/google/automl/blob/master/efficientdet/g3doc/network.png)
 
-EfficientDet infers in 30ms in this distribution and is considered a realtime model. You can store EfficientDet with as low as 17 to 30 mb of storage. EfficientDet performed state of the art on COCO when it was released. We found that EfficientDet performs slightly better than YOLOv3. EfficientDet is an open source neural network model for the computer vision task of image detection.
-
 [Read this paper to know the architecture in detail](https://arxiv.org/abs/1911.09070)
 
 ## Inferences and Results
