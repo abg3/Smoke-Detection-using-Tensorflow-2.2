@@ -2,7 +2,8 @@
 
 ## Author: Abhishek Ghosh, Moumita Mukherjee
 
-Team Name- Skylab
+# Team Name- Skylab
+# Team Members- Kaniska Mandal(Mentor), Abhishek Ghosh, Moumita Mukherjee
 
 # *Wildfire Smoke Detector*
 
