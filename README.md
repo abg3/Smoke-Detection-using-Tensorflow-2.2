@@ -4,8 +4,8 @@
 
 # Team
 
-### Team Name- Project Skylab
-### Team Members- Kaniska Mandal(Mentor), Abhishek Ghosh, Moumita Mukherjee
+#### Team Name- Project Skylab
+#### Team Members- Kaniska Mandal(Mentor), Abhishek Ghosh, Moumita Mukherjee
 
 # *Wildfire Smoke Detector*
 
