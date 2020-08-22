@@ -2,6 +2,8 @@
 
 ## Author: Abhishek Ghosh, Moumita Mukherjee
 
+Team Name- Skylab
+
 # *Wildfire Smoke Detector*
 
 In this repostiory, we implement The TensorFlow 2 Object Detection Library for training on our own dataset.
