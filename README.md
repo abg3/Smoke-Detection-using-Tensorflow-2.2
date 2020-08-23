@@ -85,9 +85,15 @@ Our model is trained EfficientDet-D0, which is a state of the art object detecti
 ![smokey6](https://user-images.githubusercontent.com/61203589/90666481-156de100-e213-11ea-98f1-de6949c99536.gif)
 
 ## False Positives
+1.
+
 
 ![Falsepos1](https://user-images.githubusercontent.com/61203589/90985991-3ac95a80-e545-11ea-9573-334818c7a020.png)
 
+2.
+
+
+![Falsepos2](https://user-images.githubusercontent.com/61203589/90986035-9dbaf180-e545-11ea-8b5d-4b807807c8b0.png)
 
 # Acknowledgement
 
