@@ -2,17 +2,22 @@
 
 ## Author: Abhishek Ghosh, Moumita Mukherjee
 
+# Team
+
+#### Team Name- Project Skylab
+#### Team Members- Kaniska Mandal(Mentor), Abhishek Ghosh, Moumita Mukherjee
+
 # *Wildfire Smoke Detector*
 
 In this repostiory, we implement The TensorFlow 2 Object Detection Library for training on our own dataset.
 
-Our goal is to develop a wildfire smoke detector which will help California respond to wildfire concerns as quickly as possible.
+Our goal is to develop a wildfire smoke detector which will help California respond to wildfire concerns as quickly as possible. This is the submission project for [Lets Stop Wildfires Hackathon 2.0](https://aiformankind.org/lets-stop-wildfires-hackathon-2.0)
 
 # Dataset
 
-We will use 733 annotated smoke images. The training, validation and testing dataset is divided in the ratio 7:2:1 i.e. 513 images for training, 147 for validation and 73 images for testing. We would like to acknowledge HPWREN and AIforMankind for providing this dataset.
+We will use 733 annotated smoke images. The training, validation and testing dataset is divided in the ratio 7:2:1 i.e. 513 images for training, 147 for validation and 73 images for testing. We would like to acknowledge [AIforMankind](https://github.com/aiformankind/wildfire-smoke-detection-camera) for providing this dataset.
 
-We have used Roboflow AI which is used to label the data, apply image preprocessing, data augmentation, generate TF Records and many other useful techniques in machine learning. We would also like to thank RoboFlow AI for the excellent tutorials.
+We have used [Roboflow](https://roboflow.com) which is used to label the data, apply image preprocessing, data augmentation, generate TF Records and many other useful techniques in machine learning. We would also like to thank Roboflow for the excellent tutorials.
 
 # Implementation
 
@@ -47,13 +52,13 @@ Our model is trained EfficientDet-D0, which is a state of the art object detecti
 
 ![image](https://github.com/google/automl/blob/master/efficientdet/g3doc/network.png)
 
-EfficientDet infers in 30ms in this distribution and is considered a realtime model. You can store EfficientDet with as low as 17 to 30 mb of storage. EfficientDet performed state of the art on COCO when it was released. We found that EfficientDet performs slightly better than YOLOv3. EfficientDet is an open source neural network model for the computer vision task of image detection.
-
 [Read this paper to know the architecture in detail](https://arxiv.org/abs/1911.09070)
 
 ## Inferences and Results
 
 # Wildfire Smoke Detector
+
+## True Positives
 
 1. 
 
@@ -78,6 +83,17 @@ EfficientDet infers in 30ms in this distribution and is considered a realtime mo
 6.
 
 ![smokey6](https://user-images.githubusercontent.com/61203589/90666481-156de100-e213-11ea-98f1-de6949c99536.gif)
+
+## False Positives
+1.
+
+
+![Falsepos1](https://user-images.githubusercontent.com/61203589/90985991-3ac95a80-e545-11ea-9573-334818c7a020.png)
+
+2.
+
+
+![Falsepos2](https://user-images.githubusercontent.com/61203589/90986035-9dbaf180-e545-11ea-8b5d-4b807807c8b0.png)
 
 # Acknowledgement
 
