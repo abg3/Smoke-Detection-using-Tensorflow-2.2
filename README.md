@@ -1,6 +1,6 @@
 # Smoke-Detection-using-Tensorflow 2.2
 
-## Author: Abhishek Ghosh, Moumita Mukherjee
+## Author: Abhishek Ghosh, Moumita Mukherjee, Kaniska Mandal
 
 # Team
 
